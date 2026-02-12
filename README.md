@@ -30,9 +30,12 @@ Note/FYI: Census revises estimates for years back to the last Census with each n
 Most SDs follow town boundaries for either one or multiple towns. As of FY2026, there are two exceptions:
 
 1. North Bennington ID is comprised of a small portion of both Shaftsbury and Bennington. Southwest Vermont UESD is comprised of Pownal, Woodford, Bennington, and Shaftsbury **excluding the portions of Bennington and Shaftsbury belonging to North Bennington ID**. Mt. Anthony UHSD is the same as Southwest Vermont UESD but *does NOT exclude* the North Bennington ID area (or population). 
-![alt text](image-1.png)
 
-2. Blue Mountain USD covers all of Ryegate and Groton, but also a small portion of northeast Newbury (Wells River). Oxbow UUSD is Bradford and Newbury, minus Wells River. ![alt text](image.png)
+![alt text](https://vcgi.nyc3.cdn.digitaloceanspaces.com/documentation-assets/images/school-districts-FY2026-NorthBenningtonID.png)
+
+2. Blue Mountain USD covers all of Ryegate and Groton, but also a small portion of northeast Newbury (Wells River). Oxbow UUSD is Bradford and Newbury, minus Wells River.
+
+![alt text](https://vcgi.nyc3.cdn.digitaloceanspaces.com/documentation-assets/images/school-districts-FY2026-RyegateNewbury.png)
 
 Population density is calculated by: 
 1. Using the ALAND (land area) field from Census geography [county subdivisions](https://github.com/VCGI/vt-school-districts/blob/main/data/CensusGeo2023_countysub.csv) and ["sub towns"](https://github.com/VCGI/vt-school-districts/blob/main/data/SubTownGeography.csv) described above. 
