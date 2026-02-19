@@ -1,303 +1,303 @@
-GEOID,NAME,NAMELSAD,ALAND,DISTRICT,TCODE,SCHID
-5000100325,Addison,Addison town,107710362,Addison Northwest USD,003,001
-5001900475,Albany,Albany town,99830311,Lake Region UHSD,006,002
-5001900475,Albany,Albany town,99830311,Lake Region Union Elm-Middle SD,006,002
-5001300860,Alburgh,Alburgh town,75373353,Alburgh,009,003
-5002701300,Andover,Andover town,74720639,Green Mountain USD,012,004
-5000301450,Arlington,Arlington town,108847991,Arlington,015,005
-5002501900,Athens,Athens town,36137937,Athens Grafton UESD,018,006
-5002501900,Athens,Athens town,36137937,Bellows Falls UHSD,018,006
-5000902125,Averill,Averill town,93269918,Averill,020,255
-5000902162,Avery's Gore,Avery's gore,47207744,Averys Gore,022,256
-5001102500,Bakersfield,Bakersfield town,108990793,Northern Mountain Valley UUSD,024,007
-5002702575,Baltimore,Baltimore town,12314212,Green Mountain USD,027,008
-5002702725,Barnard,Barnard town,124407498,Mountain Views School District,030,009
-5000502875,Barnet,Barnet town,109623097,Caledonia Cooperative School District,033,010
-5002303250,Barre Town,Barre town,79183873,Barre UUSD,039,012
-5002303175,Barre City,Barre city,10327563,Barre UUSD,036,011
-5001903550,Barton,Barton town,110681933,Lake Region UHSD,042,013
-5001903550,Barton,Barton town,110681933,Lake Region Union Elm-Middle SD,042,013
-5001504375,Belvidere,Belvidere town,92206005,Lamoille North MUSD A,048,014
-5001504375,Belvidere,Belvidere town,92206005,Lamoille North MUSD B,048,014
-5000304825,Bennington,Bennington town,108648450,Mt. Anthony UHSD,051,015
-5000304825b,Bennington Less NBID,Bennington Less NBID,103957675,Southwest Vermont UESD,051b,015b
-5000304825a,Bennington NBID,Bennington NBID,4690774,North Bennington ID,051a,015a
-5002105200,Benson,Benson town,113651207,Slate Valley UUSD,054,016
-5001105425,Berkshire,Berkshire town,107977139,Northern Mountain Valley UUSD,057,017
-5002305650,Berlin,Berlin town,93344938,Washington Central UUSD,060,018
-5002705800,Bethel,Bethel town,117835268,White River Unified District,063,019
-5000906325,Bloomfield,Bloomfield town,104034236,Northeast Kingdom Choice School District,066,020
-5000706550,Bolton,Bolton town,108170249,Mt. Mansfield UUSD,069,021
-5001707375,Bradford,Bradford town,76818599,Oxbow UUSD,072,022
-5001707600,Braintree,Braintree town,99570810,Orange Southwest USD,075,023
-5002107750,Brandon,Brandon town,102913147,Otter Valley UUSD,078,024
-5002507900,Brattleboro,Brattleboro town,83023847,Windham Southeast SD,081,025
-5002708275,Bridgewater,Bridgewater town,128160488,Mountain Views School District,084,026
-5000108575,Bridport,Bridport town,113158876,Addison Central USD,087,027
-5000908725,Brighton,Brighton town,136927046,Brighton,090,028
-5000908725,Brighton,Brighton town,136927046,North Country Sr UHSD,090,028
-5000109025,Bristol,Bristol town,105018080,Mt. Abraham USD,093,029
-5001709325,Brookfield,Brookfield town,105876670,Orange Southwest USD,096,030
-5002509475,Brookline,Brookline town,33290178,West River Modified Union Education District,099,031
-5001909850,Brownington,Brownington town,72730870,Lake Region UHSD,102,032
-5001909850,Brownington,Brownington town,72730870,Lake Region Union Elm-Middle SD,102,032
-5000910075,Brunswick,Brunswick town,64204673,Northeast Kingdom Choice School District,105,033
-5000710300,Buels Gore,Buels gore,12944561,Buels Gore,108,252
-5000510450,Burke,Burke town,86927866,Kingdom East USD,111,034
-5000710675,Burlington,Burlington city,26684549,Burlington,114,035
-5002311125,Cabot,Cabot town,96181962,Cabot,117,036
-5002311350,Calais,Calais town,98239517,Washington Central UUSD,120,037
-5001511500,Cambridge,Cambridge town,163019447,Cambridge,123,038
-5001511500,Cambridge,Cambridge town,163019447,Lamoille North MUSD B,123,038
-5000911800,Canaan,Canaan town,85526365,Canaan,126,039
-5002111950,Castleton,Castleton town,100858959,Slate Valley UUSD,129,040
-5002712250,Cavendish,Cavendish town,102045909,Green Mountain USD,132,041
-5001913150,Charleston,Charleston town,96102891,Charleston,135,042
-5001913150,Charleston,Charleston town,96102891,North Country Sr UHSD,135,042
-5000713300,Charlotte,Charlotte town,106841378,Champlain Valley USD,138,043
-5001713525,Chelsea,Chelsea town,103731778,First Branch USD,141,044
-5002713675,Chester,Chester town,144290221,Green Mountain USD,144,045
-5002114350,Chittenden,Chittenden town,188383539,Barstow UUSD,147,046
-5002114500,Clarendon,Clarendon town,81031834,Mill River UUSD,150,047
-5000714875,Colchester,Colchester town,94016198,Colchester,153,048
-5000915250,Concord,Concord town,132826613,Kingdom East USD,156,049
-5001715700,Corinth,Corinth town,124945252,Waits River Valley School District,159,050
-5000116000,Cornwall,Cornwall town,73990774,Addison Central USD,162,051
-5001916150,Coventry,Coventry town,69986513,Coventry,165,052
-5001916300,Craftsbury,Craftsbury town,101009278,Craftsbury,168,053
-5002116825,Danby,Danby town,107599269,Taconic and Green Regional SD,171,054
-5000517125,Danville,Danville town,156995401,Danville,174,055
-5001917350,Derby,Derby town,126865268,Derby,177,056
-5001917350,Derby,Derby town,126865268,North Country Jr UHSD,177,056
-5001917350,Derby,Derby town,126865268,North Country Sr UHSD,177,056
-5000317725,Dorset,Dorset town,122692452,Taconic and Green Regional SD,180,057
-5002517875,Dover,Dover town,92639357,River Valleys USD,183,058
-5002518325,Dummerston,Dummerston town,79502081,Windham Southeast SD,186,059
-5002318550,Duxbury,Duxbury town,111285311,Harwood UUSD,189,060
-5000921250,East Haven,East Haven town,96484367,Northeast Kingdom Choice School District,192,061
-5002321925,East Montpelier,East Montpelier town,82227291,Washington Central UUSD,195,062
-5001523500,Eden,Eden town,162970287,Lamoille North MUSD A,198,063
-5001523500,Eden,Eden town,162970287,Lamoille North MUSD B,198,063
-5001523725,Elmore,Elmore town,100826320,Elmore-Morristown UUSD,201,064
-5001124050,Enosburgh,Enosburgh town,123278559,Enosburgh-Richford UUSD,204,065
-5000724175,Essex,Essex town,88941924,Essex-Westford ECUUSD,207,067
-5000724400,Essex Junction,Essex Junction city,11833874,Essex-Westford ECUUSD,208,066
-5002125375,Fair Haven,Fair Haven town,45347090,Slate Valley UUSD,216,070
-5001124925,Fairfax,Fairfax town,102923828,Fairfax,210,068
-5001125225,Fairfield,Fairfield town,174333510,Maple Run USD,213,069
-5001725675,Fairlee,Fairlee town,51715954,Rivendell Interstate School District,219,071
-5002325825,Fayston,Fayston town,94551006,Harwood UUSD,222,072
-5000925975,Ferdinand,Ferdinand town,136906364,Ferdinand,225,257
-5000126300,Ferrisburgh,Ferrisburgh town,122981523,Addison Northwest USD,228,073
-5001126500,Fletcher,Fletcher town,99319293,Fletcher,231,074
-5001127100,Franklin,Franklin town,99934777,Missisquoi Valley School Distrist,234,075
-5001127700,Georgia,Georgia town,101909652,Georgia,237,076
-5000327962,Glastenbury,Glastenbury town,115027385,Glastenbury,240,258
-5001928075,Glover,Glover town,97274448,Lake Region UHSD,243,077
-5001928075,Glover,Glover town,97274448,Lake Region Union Elm-Middle SD,243,077
-5000128600,Goshen,Goshen town,53303535,Otter Valley UUSD,246,078
-5002528900,Grafton,Grafton town,98773085,Athens Grafton UESD,249,079
-5002528900,Grafton,Grafton town,98773085,Bellows Falls UHSD,249,079
-5000929125,Granby,Granby town,100282642,Northeast Kingdom Choice School District,252,080
-5001329275,Grand Isle,Grand Isle town,42510685,Champlain Islands UUSD,255,081
-5000129575,Granville,Granville town,131792676,Granville-Hancock Unified District,261,082
-5001930175,Greensboro,Greensboro town,97906517,Hazen UHSD,264,083
-5001930175,Greensboro,Greensboro town,97906517,Mountain View UESD,264,083
-5000530550,Groton,Groton town,139414527,Blue Mountain USD,267,084
-5000930775,Guildhall,Guildhall town,85391281,Northeast Kingdom Choice School District,270,085
-5002530925,Guilford,Guilford town,102422834,Windham Southeast SD,273,086
-5002531150,Halifax,Halifax town,102868738,Halifax,276,087
-5000131525,Hancock,Hancock town,99657749,Granville-Hancock Unified District,279,088
-5000531825,Hardwick,Hardwick town,99107582,Hazen UHSD,282,089
-5000531825,Hardwick,Hardwick town,99107582,Mountain View UESD,282,089
-5002732275,Hartford,Hartford town,116836775,Hartford,285,090
-5002732425,Hartland,Hartland town,117145787,Hartland,288,091
-5001133025,Highgate,Highgate town,132156861,Missisquoi Valley School Distrist,291,092
-5000733475,Hinesburg,Hinesburg town,101781959,Champlain Valley USD,294,093
-5001933775,Holland,Holland town,98241076,Holland,297,094
-5001933775,Holland,Holland town,98241076,North Country Jr UHSD,297,094
-5001933775,Holland,Holland town,98241076,North Country Sr UHSD,297,094
-5002134450,Hubbardton,Hubbardton town,70505640,Slate Valley UUSD,300,095
-5000734600,Huntington,Huntington town,99009762,Mt. Mansfield UUSD,303,096
-5001535050,Hyde Park,Hyde Park town,97566215,Lamoille North MUSD A,306,097
-5001535050,Hyde Park,Hyde Park town,97566215,Lamoille North MUSD B,306,097
-5002135425,Ira,Ira town,57660948,Ira,309,098
-5001935575,Irasburg,Irasburg town,104302251,Lake Region UHSD,312,099
-5001935575,Irasburg,Irasburg town,104302251,Lake Region Union Elm-Middle SD,312,099
-5001335875,Isle La Motte,Isle La Motte town,20421053,Champlain Islands UUSD,318,100
-5002536175,Jamaica,Jamaica town,126769896,West River Modified Union Education District,324,101
-5001936325,Jay,Jay town,87840666,Jay,327,102
-5001936325,Jay,Jay town,87840666,North Country Jr UHSD,327,102
-5001936325,Jay,Jay town,87840666,North Country Sr UHSD,327,102
-5000736700,Jericho,Jericho town,91829001,Mt. Mansfield UUSD,333,103
-5001537075,Johnson,Johnson town,117378144,Lamoille North MUSD A,336,104
-5001537075,Johnson,Johnson town,117378144,Lamoille North MUSD B,336,104
-5002137685,Killington,Killington town,122587615,Mountain Views School District,588,185
-5000537900,Kirby,Kirby town,63961519,Northeast Kingdom Choice School District,339,105
-5000339025,Landgrove,Landgrove town,22934584,Taconic and Green Regional SD,342,106
-5000139325,Leicester,Leicester town,53966710,Otter Valley UUSD,345,107
-5000939700,Lemington,Lemington town,91762257,Northeast Kingdom Choice School District,348,108
-5000939775,Lewis,Lewis town,100713120,Lewis,351,259
-5000140075,Lincoln,Lincoln town,118130903,Lincoln,354,109
-5002540225,Londonderry,Londonderry town,91862173,Taconic and Green Regional SD,357,110
-5001940525,Lowell,Lowell town,146401788,Lowell,360,111
-5001940525,Lowell,Lowell town,146401788,North Country Sr UHSD,360,111
-5002741275,Ludlow,Ludlow town,90002333,Ludlow - Mt. Holly UUSD,363,112
-5000941425,Lunenburg,Lunenburg town,116998026,Kingdom East USD,366,113
-5000541725,Lyndon,Lyndon town,101891984,Kingdom East USD,369,114
-5000942475,Maidstone,Maidstone town,79498953,Northeast Kingdom Choice School District,372,115
-5000342850,Manchester,Manchester town,108660996,Taconic and Green Regional SD,375,116
-5002543375,Marlboro,Marlboro town,104503689,Marlboro,378,117
-5002343600,Marshfield,Marshfield town,112174794,Twinfield USD,381,118
-5002144125,Mendon,Mendon town,98309766,Barstow UUSD,384,119
-5000144350,Middlebury,Middlebury town,101608654,Addison Central USD,387,120
-5002344500,Middlesex,Middlesex town,102280224,Washington Central UUSD,390,121
-5002144800,Middletown Springs,Middletown Springs town,58791398,Wells Spring Unified Union District,393,122
-5000745250,Milton,Milton town,133608687,Milton,396,123
-5000145550,Monkton,Monkton town,92963472,Mt. Abraham USD,399,124
-5001145850,Montgomery,Montgomery town,145942558,Northern Mountain Valley UUSD,402,125
-5002346000,Montpelier,Montpelier city,26048126,Montpelier Roxbury School District ,405,126
-5002346225,Moretown,Moretown town,102857700,Harwood UUSD,408,127
-5001946450,Morgan,Morgan town,80822256,Morgan,411,128
-5001946450,Morgan,Morgan town,80822256,North Country Jr UHSD,411,128
-5001946450,Morgan,Morgan town,80822256,North Country Sr UHSD,411,128
-5001546675,Morristown,Morristown town,131520485,Elmore-Morristown UUSD,414,129
-5002147200,Mount Holly,Mount Holly town,127162742,Ludlow - Mt. Holly UUSD,417,130
-5002147425,Mount Tabor,Mount Tabor town,114239500,Taconic and Green Regional SD,420,131
-5000148700,New Haven,New Haven town,106590692,Mt. Abraham USD,432,135
-5000547725,Newark,Newark town,95243417,Kingdom East USD,423,132
-5001748175a,Newbury Less Wells River,Newbury Less Wells River,160989236,Oxbow UUSD,426a,133a
-5002548400,Newfane,Newfane town,102981054,West River Modified Union Education District,429,134
-5001948850,Newport City,Newport city,15171890,Newport City,435,136
-5001948925,Newport Town,Newport town,107555208,Newport Town,438,137
-5001948850,Newport City,Newport city,15171890,North Country Jr UHSD,435,136
-5001948925,Newport Town,Newport town,107555208,North Country Sr UHSD,438,137
-5001948850,Newport City,Newport city,15171890,North Country Sr UHSD,435,136
-5001350650,North Hero,North Hero town,34846768,Champlain Islands UUSD,444,140
-5002350275,Northfield,Northfield town,115595913,Paine Mountain School District,441,139
-5000952750,Norton,Norton town,99428306,Northeast Kingdom Choice School District,447,141
-5002752900,Norwich,Norwich town,115239694,Dresden Interstate UHSD,450,142
-5002752900,Norwich,Norwich town,115239694,Norwich,450,142
-5001753425,Orange,Orange town,100199779,Echo Valley Community School District,453,143
-5000153725,Orwell,Orwell town,122300017,Slate Valley UUSD,459,145
-5000153950,Panton,Panton town,40092401,Addison Northwest USD,462,146
-5002154250,Pawlet,Pawlet town,110964556,Metawee School District,465,147
-5000554400,Peacham,Peacham town,120906410,Peacham,468,148
-5000355000,Peru,Peru town,96791086,Taconic and Green Regional SD,474,149
-5002155450,Pittsfield,Pittsfield town,53038633,Pittsfield,477,150
-5002155600,Pittsford,Pittsford town,112113009,Otter Valley UUSD,480,151
-5002355825,Plainfield,Plainfield town,54396776,Twinfield USD,483,152
-5002756050,Plymouth,Plymouth town,124771309,Mountain Views School District,486,153
-5002756350,Pomfret,Pomfret town,102240236,Mountain Views School District,489,154
-5002156875,Poultney,Poultney town,110223965,Quarry Valley UUSD,492,155
-5000357025,Pownal,Pownal town,121146174,Mt. Anthony UHSD,495,156
-5000357025,Pownal,Pownal town,121146174,Southwest Vermont UESD,495,156
-5002157250,Proctor,Proctor town,19203742,Quarry Valley UUSD,498,157
-5002557700,Putney,Putney town,69044547,Windham Southeast SD,504,158
-5001758075,Randolph,Randolph town,124240343,Orange Southwest USD,507,159
-5002758375,Reading,Reading town,106434498,Mountain Views School District,510,160
-5000358600,Readsboro,Readsboro town,93577441,Readsboro,513,161
-5001159125,Richford,Richford town,111194664,Enosburgh-Richford UUSD,516,162
-5000759275,Richmond,Richmond town,83853391,Mt. Mansfield UUSD,519,163
-5000159650,Ripton,Ripton town,127650280,Addison Central USD,522,164
-5002760100,Rochester,Rochester town,147227716,Rochester-Stockbridge USD,525,165
-5002560250,Rockingham,Rockingham town,107252404,Bellows Falls UHSD,528,166
-5002560250,Rockingham,Rockingham town,107252404,Rockingham,528,166
-5002360625,Roxbury,Roxbury town,108000616,Montpelier Roxbury School District ,531,167
-5002760850,Royalton,Royalton town,104569048,White River Unified District,534,168
-5000361000,Rupert,Rupert town,115890477,Metawee School District,537,169
-5002161225,Rutland City,Rutland city,19562140,Rutland City,540,170
-5002161300,Rutland Town,Rutland town,49353210,Rutland Town,543,171
-5000561525,Ryegate,Ryegate town,94703073,Blue Mountain USD,546,172
-5000162575,Salisbury,Salisbury town,74956495,Addison Central USD,561,177
-5000362875,Sandgate,Sandgate town,109417261,Sandgate,564,178
-5000363175,Searsburg,Searsburg town,55124443,Searbsurg,570,179
-5000363550,Shaftsbury,Shaftsbury town,111345105,Mt. Anthony UHSD,573,180
-5000363550b,Shaftsbury Less NBID,Shaftsbury Less NBID,106018506,Southwest Vermont UESD,573b,180a
-5000363550a,Shaftsbury NBID,Shaftsbury NBID,5326598,North Bennington ID,573a,180b
-5002763775,Sharon,Sharon town,103103246,Sharon,576,181
-5000564075,Sheffield,Sheffield town,84840734,Kingdom East USD,579,182
-5000764300,Shelburne,Shelburne town,62874422,Champlain Valley USD,582,183
-5001164600,Sheldon,Sheldon town,100080746,Northern Mountain Valley UUSD,585,184
-5000165050,Shoreham,Shoreham town,111950012,Addison Central USD,591,186
-5002165275,Shrewsbury,Shrewsbury town,129660709,Mill River UUSD,594,187
-5002565762,Somerset,Somerset town,65607721,Somerset,597,260
-5000766175,South Burlington,South Burlington city,42565245,South Burlington,600,188
-5001367000,South Hero,South Hero town,38630491,South Hero,603,189
-5002769550,Springfield,Springfield town,127458768,Springfield,606,190
-5001161675,Saint Albans City,St. Albans city,5064444,Maple Run USD,549,173
-5001161750,Saint Albans Town,St. Albans town,96174593,Maple Run USD,552,174
-5000762050,Saint George,St. George town,9505929,Champlain Valley USD,555,175
-5000562200,Saint Johnsbury,St. Johnsbury town,94405066,St. Johnsbury,558,176
-5000369775,Stamford,Stamford town,102255394,Stamford,609,191
-5000569925,Stannard,Stannard town,32742771,Mountain View UESD,612,192
-5000569925,Stannard,Stannard town,32742771,Stannard,612,192
-5000170075,Starksboro,Starksboro town,117485652,Mt. Abraham USD,615,193
-5002770375,Stockbridge,Stockbridge town,118581821,Rochester-Stockbridge USD,618,194
-5001570525,Stowe,Stowe town,187660671,Stowe,621,195
-5001770675,Strafford,Strafford town,114179722,Strafford,624,196
-5002570750,Stratton,Stratton town,119210165,Stratton,627,197
-5002171050,Sudbury,Sudbury town,55409219,Otter Valley UUSD,630,198
-5000371425,Sunderland,Sunderland town,117158658,Taconic and Green Regional SD,633,199
-5000571575,Sutton,Sutton town,99192363,Kingdom East USD,636,200
-5001171725,Swanton,Swanton town,124899615,Missisquoi Valley School Distrist,639,201
-5001772400,Thetford,Thetford town,112800232,Thetford,642,202
-5002172925,Tinmouth,Tinmouth town,74050391,Mill River UUSD,645,203
-5001773075,Topsham,Topsham town,126706618,Waits River Valley School District,648,204
-5002573300,Townshend,Townshend town,109511616,West River Modified Union Education District,651,205
-5001973525,Troy,Troy town,93570425,North Country Sr UHSD,654,206
-5001973525,Troy,Troy town,93570425,Troy,654,206
-5001773675,Tunbridge,Tunbridge town,115609011,First Branch USD,657,207
-5000773975,Underhill,Underhill town,132646841,Mt. Mansfield UUSD,660,209
-5000174650,Vergennes,Vergennes city,6359939,Addison Northwest USD,663,210
-5002574800,Vernon,Vernon town,50370905,Vernon,666,211
-5002574800,Vernon,Vernon town,50370905,Windham Southeast SD,666,211
-5001774950,Vershire,Vershire town,93500027,Rivendell Interstate School District,669,212
-5000975175,Victory,Victory town,111250313,Northeast Kingdom Choice School District,672,213
-5002375325,Waitsfield,Waitsfield town,66688119,Harwood UUSD,675,214
-5000575700,Walden,Walden town,100028451,Caledonia Cooperative School District,678,215
-5002175925,Wallingford,Wallingford town,110092950,Mill River UUSD,681,216
-5000176075,Waltham,Waltham town,23610483,Addison Northwest USD,684,217
-5002576225,Wardsboro,Wardsboro town,75685009,River Valleys USD,687,218
-5000976337,Warner's Grant,Warner's grant,8286161,Warners Grant,689,261
-5002376525,Warren,Warren town,103815929,Harwood UUSD,690,219
-5000976562,Warren's Gore,Warren's gore,24532186,Warren Gore,692,262
-5001776750,Washington,Washington town,100961054,Echo Valley Community School District,693,220
-5002376975,Waterbury,Waterbury town,124716290,Harwood UUSD,696,221
-5000577125,Waterford,Waterford town,99155685,Caledonia Cooperative School District,699,222
-5001577425,Waterville,Waterville town,40622774,Lamoille North MUSD A,702,223
-5001577425,Waterville,Waterville town,40622774,Lamoille North MUSD B,702,223
-5002777500,Weathersfield,Weathersfield town,112687152,Weathersfield,705,224
-5002177950,Wells,Wells town,57867586,Wells Spring Unified Union District,708,225
-5001748175b,Wells River,Wells River,4895006,Blue Mountain USD,426b,133b
-5001779975,West Fairlee,West Fairlee town,58588748,Rivendell Interstate School District,714,227
-5002180875,West Haven,West Haven town,72838833,Slate Valley UUSD,723,230
-5002182300,West Rutland,West Rutland town,46692437,Quarry Valley UUSD,735,234
-5002783050,West Windsor,West Windsor town,64025412,Mt. Ascutney SD,738,235
-5001980200,Westfield,Westfield town,103368989,North Country Sr UHSD,717,228
-5001980200,Westfield,Westfield town,103368989,Westfield,717,228
-5000780350,Westford,Westford town,100806173,Essex-Westford ECUUSD,720,229
-5002581400,Westminster,Westminster town,116613916,Bellows Falls UHSD,726,231
-5002581400,Westminster,Westminster town,116613916,Westminster,726,231
-5001981700,Westmore,Westmore town,89218126,Lake Region UHSD,729,232
-5001981700,Westmore,Westmore town,89218126,Lake Region Union Elm-Middle SD,729,232
-5002782000,Weston,Weston town,91611397,Taconic and Green Regional SD,732,233
-5000183275,Weybridge,Weybridge town,44282021,Addison Central USD,741,236
-5000583500,Wheelock,Wheelock town,102314218,Kingdom East USD,744,237
-5000183800,Whiting,Whiting town,35227609,Otter Valley UUSD,750,238
-5002583950,Whitingham,Whitingham town,95204651,Twin Valley USD,753,239
-5001784175,Williamstown,Williamstown town,104014501,Paine Mountain School District,756,240
-5000784475,Williston,Williston town,78942811,Champlain Valley USD,759,241
-5002584700,Wilmington,Wilmington town,104766010,Twin Valley USD,762,242
-5002584850,Windham,Windham town,67581474,West River Modified Union Education District,765,243
-5002584850,Windham,Windham town,67581474,Windham,765,243
-5002784925,Windsor,Windsor town,50267370,Mt. Ascutney SD,768,244
-5000385075,Winhall,Winhall town,114093319,Winhall,771,245
-5000785150,Winooski,Winooski city,3576484,Winooski ID,774,246
-5001585375,Wolcott,Wolcott town,100873611,Wolcott,777,247
-5002385525,Woodbury,Woodbury town,97701026,Hazen UHSD,780,248
-5002385525,Woodbury,Woodbury town,97701026,Mountain View UESD,780,248
-5000385675,Woodford,Woodford town,122653078,Mt. Anthony UHSD,783,249
-5000385675,Woodford,Woodford town,122653078,Southwest Vermont UESD,783,249
-5002785975,Woodstock,Woodstock town,114095175,Mountain Views School District,786,250
-5002386125,Worcester,Worcester town,99860093,Washington Central UUSD,788,251
+GEOID,NAME,NAMELSAD,ALAND,DISTRICT,TCODE,SD_CODE,SD_ID
+5000100325,Addison,Addison town,107710362,Addison Northwest USD,003,001,U054
+5001900475,Albany,Albany town,99830311,Lake Region UHSD,006,002,U024
+5001900475,Albany,Albany town,99830311,Lake Region Union Elm-Middle SD,006,002,U093
+5001300860,Alburgh,Alburgh town,75373353,Alburgh,009,003,T003
+5002701300,Andover,Andover town,74720639,Green Mountain USD,012,004,U077
+5000301450,Arlington,Arlington town,108847991,Arlington,015,005,T005
+5002501900,Athens,Athens town,36137937,Athens Grafton UESD,018,006,U095
+5002501900,Athens,Athens town,36137937,Bellows Falls UHSD,018,006,U027
+5000902125,Averill,Averill town,93269918,Averill,020,255,T256
+5000902162,Avery's Gore,Avery's gore,47207744,Averys Gore,022,256,T257
+5001102500,Bakersfield,Bakersfield town,108990793,Northern Mountain Valley UUSD,024,007,U085
+5002702575,Baltimore,Baltimore town,12314212,Green Mountain USD,027,008,U077
+5002702725,Barnard,Barnard town,124407498,Mountain Views School District,030,009,U076
+5000502875,Barnet,Barnet town,109623097,Caledonia Cooperative School District,033,010,U078
+5002303250,Barre Town,Barre town,79183873,Barre UUSD,039,012,U097
+5002303175,Barre City,Barre city,10327563,Barre UUSD,036,011,U097
+5001903550,Barton,Barton town,110681933,Lake Region UHSD,042,013,U024
+5001903550,Barton,Barton town,110681933,Lake Region Union Elm-Middle SD,042,013,U093
+5001504375,Belvidere,Belvidere town,92206005,Lamoille North MUSD A,048,014,U058A
+5001504375,Belvidere,Belvidere town,92206005,Lamoille North MUSD B,048,014,U058B
+5000304825,Bennington,Bennington town,108648450,Mt. Anthony UHSD,051,015,U014
+5000304825b,Bennington Less NBID,Bennington Less NBID,103957675,Southwest Vermont UESD,051b,015b,U087
+5000304825a,Bennington NBID,Bennington NBID,4690774,North Bennington ID,051a,015a,T141
+5002105200,Benson,Benson town,113651207,Slate Valley UUSD,054,016,U062
+5001105425,Berkshire,Berkshire town,107977139,Northern Mountain Valley UUSD,057,017,U085
+5002305650,Berlin,Berlin town,93344938,Washington Central UUSD,060,018,U092
+5002705800,Bethel,Bethel town,117835268,White River Unified District,063,019,U079
+5000906325,Bloomfield,Bloomfield town,104034236,Northeast Kingdom Choice School District,066,020,U065
+5000706550,Bolton,Bolton town,108170249,Mt. Mansfield UUSD,069,021,U401
+5001707375,Bradford,Bradford town,76818599,Oxbow UUSD,072,022,u091
+5001707600,Braintree,Braintree town,99570810,Orange Southwest USD,075,023,U059
+5002107750,Brandon,Brandon town,102913147,Otter Valley UUSD,078,024,U053
+5002507900,Brattleboro,Brattleboro town,83023847,Windham Southeast SD,081,025,U096
+5002708275,Bridgewater,Bridgewater town,128160488,Mountain Views School District,084,026,U076
+5000108575,Bridport,Bridport town,113158876,Addison Central USD,087,027,U055
+5000908725,Brighton,Brighton town,136927046,Brighton,090,028,T030
+5000908725,Brighton,Brighton town,136927046,North Country Sr UHSD,090,028,U022B
+5000109025,Bristol,Bristol town,105018080,Mt. Abraham USD,093,029,U061
+5001709325,Brookfield,Brookfield town,105876670,Orange Southwest USD,096,030,U059
+5002509475,Brookline,Brookline town,33290178,West River Modified Union Education District,099,031,U072A/B
+5001909850,Brownington,Brownington town,72730870,Lake Region UHSD,102,032,U024
+5001909850,Brownington,Brownington town,72730870,Lake Region Union Elm-Middle SD,102,032,U093
+5000910075,Brunswick,Brunswick town,64204673,Northeast Kingdom Choice School District,105,033,U065
+5000710300,Buels Gore,Buels gore,12944561,Buels Gore,108,252,T255
+5000510450,Burke,Burke town,86927866,Kingdom East USD,111,034,U064
+5000710675,Burlington,Burlington city,26684549,Burlington,114,035,T037
+5002311125,Cabot,Cabot town,96181962,Cabot,117,036,T038
+5002311350,Calais,Calais town,98239517,Washington Central UUSD,120,037,U092
+5001511500,Cambridge,Cambridge town,163019447,Cambridge,123,038,T040
+5001511500,Cambridge,Cambridge town,163019447,Lamoille North MUSD B,123,038,U058B
+5000911800,Canaan,Canaan town,85526365,Canaan,126,039,T041
+5002111950,Castleton,Castleton town,100858959,Slate Valley UUSD,129,040,U062
+5002712250,Cavendish,Cavendish town,102045909,Green Mountain USD,132,041,U077
+5001913150,Charleston,Charleston town,96102891,Charleston,135,042,T044
+5001913150,Charleston,Charleston town,96102891,North Country Sr UHSD,135,042,U022B
+5000713300,Charlotte,Charlotte town,106841378,Champlain Valley USD,138,043,U056
+5001713525,Chelsea,Chelsea town,103731778,First Branch USD,141,044,U082
+5002713675,Chester,Chester town,144290221,Green Mountain USD,144,045,U077
+5002114350,Chittenden,Chittenden town,188383539,Barstow UUSD,147,046,U049
+5002114500,Clarendon,Clarendon town,81031834,Mill River UUSD,150,047,U052
+5000714875,Colchester,Colchester town,94016198,Colchester,153,048,T050
+5000915250,Concord,Concord town,132826613,Kingdom East USD,156,049,U064
+5001715700,Corinth,Corinth town,124945252,Waits River Valley School District,159,050,U036
+5000116000,Cornwall,Cornwall town,73990774,Addison Central USD,162,051,U055
+5001916150,Coventry,Coventry town,69986513,Coventry,165,052,T054
+5001916300,Craftsbury,Craftsbury town,101009278,Craftsbury,168,053,T055
+5002116825,Danby,Danby town,107599269,Taconic and Green Regional SD,171,054,U063
+5000517125,Danville,Danville town,156995401,Danville,174,055,T057
+5001917350,Derby,Derby town,126865268,Derby,177,056,T058
+5001917350,Derby,Derby town,126865268,North Country Jr UHSD,177,056,U022A
+5001917350,Derby,Derby town,126865268,North Country Sr UHSD,177,056,U022B
+5000317725,Dorset,Dorset town,122692452,Taconic and Green Regional SD,180,057,U063
+5002517875,Dover,Dover town,92639357,River Valleys USD,183,058,U073
+5002518325,Dummerston,Dummerston town,79502081,Windham Southeast SD,186,059,U096
+5002318550,Duxbury,Duxbury town,111285311,Harwood UUSD,189,060,U060
+5000921250,East Haven,East Haven town,96484367,Northeast Kingdom Choice School District,192,061,U065
+5002321925,East Montpelier,East Montpelier town,82227291,Washington Central UUSD,195,062,U092
+5001523500,Eden,Eden town,162970287,Lamoille North MUSD A,198,063,U058A
+5001523500,Eden,Eden town,162970287,Lamoille North MUSD B,198,063,U058B
+5001523725,Elmore,Elmore town,100826320,Elmore-Morristown UUSD,201,064,U090
+5001124050,Enosburgh,Enosburgh town,123278559,Enosburgh-Richford UUSD,204,065,U088
+5000724175,Essex,Essex town,88941924,Essex-Westford ECUUSD,207,067,U051
+5000724400,Essex Junction,Essex Junction city,11833874,Essex-Westford ECUUSD,208,066,U051
+5002125375,Fair Haven,Fair Haven town,45347090,Slate Valley UUSD,216,070,U062
+5001124925,Fairfax,Fairfax town,102923828,Fairfax,210,068,T071
+5001125225,Fairfield,Fairfield town,174333510,Maple Run USD,213,069,U057
+5001725675,Fairlee,Fairlee town,51715954,Rivendell Interstate School District,219,071,U146
+5002325825,Fayston,Fayston town,94551006,Harwood UUSD,222,072,U060
+5000925975,Ferdinand,Ferdinand town,136906364,Ferdinand,225,257,T258
+5000126300,Ferrisburgh,Ferrisburgh town,122981523,Addison Northwest USD,228,073,U054
+5001126500,Fletcher,Fletcher town,99319293,Fletcher,231,074,T077
+5001127100,Franklin,Franklin town,99934777,Missisquoi Valley School Distrist,234,075,U089
+5001127700,Georgia,Georgia town,101909652,Georgia,237,076,T079
+5000327962,Glastenbury,Glastenbury town,115027385,Glastenbury,240,258,T259
+5001928075,Glover,Glover town,97274448,Lake Region UHSD,243,077,U024
+5001928075,Glover,Glover town,97274448,Lake Region Union Elm-Middle SD,243,077,U093
+5000128600,Goshen,Goshen town,53303535,Otter Valley UUSD,246,078,U053
+5002528900,Grafton,Grafton town,98773085,Athens Grafton UESD,249,079,U095
+5002528900,Grafton,Grafton town,98773085,Bellows Falls UHSD,249,079,U027
+5000929125,Granby,Granby town,100282642,Northeast Kingdom Choice School District,252,080,U065
+5001329275,Grand Isle,Grand Isle town,42510685,Champlain Islands UUSD,255,081,U066
+5000129575,Granville,Granville town,131792676,Granville-Hancock Unified District,261,082,U080
+5001930175,Greensboro,Greensboro town,97906517,Hazen UHSD,264,083,U026
+5001930175,Greensboro,Greensboro town,97906517,Mountain View UESD,264,083,U094
+5000530550,Groton,Groton town,139414527,Blue Mountain USD,267,084,U021
+5000930775,Guildhall,Guildhall town,85391281,Northeast Kingdom Choice School District,270,085,U065
+5002530925,Guilford,Guilford town,102422834,Windham Southeast SD,273,086,U096
+5002531150,Halifax,Halifax town,102868738,Halifax,276,087,T090
+5000131525,Hancock,Hancock town,99657749,Granville-Hancock Unified District,279,088,U080
+5000531825,Hardwick,Hardwick town,99107582,Hazen UHSD,282,089,U026
+5000531825,Hardwick,Hardwick town,99107582,Mountain View UESD,282,089,U094
+5002732275,Hartford,Hartford town,116836775,Hartford,285,090,T093
+5002732425,Hartland,Hartland town,117145787,Hartland,288,091,T094
+5001133025,Highgate,Highgate town,132156861,Missisquoi Valley School Distrist,291,092,U089
+5000733475,Hinesburg,Hinesburg town,101781959,Champlain Valley USD,294,093,U056
+5001933775,Holland,Holland town,98241076,Holland,297,094,T097
+5001933775,Holland,Holland town,98241076,North Country Jr UHSD,297,094,U022A
+5001933775,Holland,Holland town,98241076,North Country Sr UHSD,297,094,U022B
+5002134450,Hubbardton,Hubbardton town,70505640,Slate Valley UUSD,300,095,U062
+5000734600,Huntington,Huntington town,99009762,Mt. Mansfield UUSD,303,096,U401
+5001535050,Hyde Park,Hyde Park town,97566215,Lamoille North MUSD A,306,097,U058A
+5001535050,Hyde Park,Hyde Park town,97566215,Lamoille North MUSD B,306,097,U058B
+5002135425,Ira,Ira town,57660948,Ira,309,098,T101
+5001935575,Irasburg,Irasburg town,104302251,Lake Region UHSD,312,099,U024
+5001935575,Irasburg,Irasburg town,104302251,Lake Region Union Elm-Middle SD,312,099,U093
+5001335875,Isle La Motte,Isle La Motte town,20421053,Champlain Islands UUSD,318,100,U066
+5002536175,Jamaica,Jamaica town,126769896,West River Modified Union Education District,324,101,U072A/B
+5001936325,Jay,Jay town,87840666,Jay,327,102,T105
+5001936325,Jay,Jay town,87840666,North Country Jr UHSD,327,102,U022A
+5001936325,Jay,Jay town,87840666,North Country Sr UHSD,327,102,U022B
+5000736700,Jericho,Jericho town,91829001,Mt. Mansfield UUSD,333,103,U401
+5001537075,Johnson,Johnson town,117378144,Lamoille North MUSD A,336,104,U058A
+5001537075,Johnson,Johnson town,117378144,Lamoille North MUSD B,336,104,U058B
+5002137685,Killington,Killington town,122587615,Mountain Views School District,588,185,U076
+5000537900,Kirby,Kirby town,63961519,Northeast Kingdom Choice School District,339,105,U065
+5000339025,Landgrove,Landgrove town,22934584,Taconic and Green Regional SD,342,106,U063
+5000139325,Leicester,Leicester town,53966710,Otter Valley UUSD,345,107,U053
+5000939700,Lemington,Lemington town,91762257,Northeast Kingdom Choice School District,348,108,U065
+5000939775,Lewis,Lewis town,100713120,Lewis,351,259,T260
+5000140075,Lincoln,Lincoln town,118130903,Lincoln,354,109,T112
+5002540225,Londonderry,Londonderry town,91862173,Taconic and Green Regional SD,357,110,U063
+5001940525,Lowell,Lowell town,146401788,Lowell,360,111,T114
+5001940525,Lowell,Lowell town,146401788,North Country Sr UHSD,360,111,U022B
+5002741275,Ludlow,Ludlow town,90002333,Ludlow - Mt. Holly UUSD,363,112,U083
+5000941425,Lunenburg,Lunenburg town,116998026,Kingdom East USD,366,113,U064
+5000541725,Lyndon,Lyndon town,101891984,Kingdom East USD,369,114,U064
+5000942475,Maidstone,Maidstone town,79498953,Northeast Kingdom Choice School District,372,115,U065
+5000342850,Manchester,Manchester town,108660996,Taconic and Green Regional SD,375,116,U063
+5002543375,Marlboro,Marlboro town,104503689,Marlboro,378,117,T120
+5002343600,Marshfield,Marshfield town,112174794,Twinfield USD,381,118,U033
+5002144125,Mendon,Mendon town,98309766,Barstow UUSD,384,119,U049
+5000144350,Middlebury,Middlebury town,101608654,Addison Central USD,387,120,U055
+5002344500,Middlesex,Middlesex town,102280224,Washington Central UUSD,390,121,U092
+5002144800,Middletown Springs,Middletown Springs town,58791398,Wells Spring Unified Union District,393,122,U069
+5000745250,Milton,Milton town,133608687,Milton,396,123,T126
+5000145550,Monkton,Monkton town,92963472,Mt. Abraham USD,399,124,U061
+5001145850,Montgomery,Montgomery town,145942558,Northern Mountain Valley UUSD,402,125,U085
+5002346000,Montpelier,Montpelier city,26048126,Montpelier Roxbury School District ,405,126,U071
+5002346225,Moretown,Moretown town,102857700,Harwood UUSD,408,127,U060
+5001946450,Morgan,Morgan town,80822256,Morgan,411,128,T131
+5001946450,Morgan,Morgan town,80822256,North Country Jr UHSD,411,128,U022A
+5001946450,Morgan,Morgan town,80822256,North Country Sr UHSD,411,128,U022B
+5001546675,Morristown,Morristown town,131520485,Elmore-Morristown UUSD,414,129,U090
+5002147200,Mount Holly,Mount Holly town,127162742,Ludlow - Mt. Holly UUSD,417,130,U083
+5002147425,Mount Tabor,Mount Tabor town,114239500,Taconic and Green Regional SD,420,131,U063
+5000148700,New Haven,New Haven town,106590692,Mt. Abraham USD,432,135,U061
+5000547725,Newark,Newark town,95243417,Kingdom East USD,423,132,U064
+5001748175a,Newbury Less Wells River,Newbury Less Wells River,160989236,Oxbow UUSD,426a,133a,u091
+5002548400,Newfane,Newfane town,102981054,West River Modified Union Education District,429,134,U072A/B
+5001948850,Newport City,Newport city,15171890,Newport City,435,136,T139
+5001948925,Newport Town,Newport town,107555208,Newport Town,438,137,T140
+5001948850,Newport City,Newport city,15171890,North Country Jr UHSD,435,136,U022A
+5001948925,Newport Town,Newport town,107555208,North Country Sr UHSD,438,137,U022B
+5001948850,Newport City,Newport city,15171890,North Country Sr UHSD,435,136,U022B
+5001350650,North Hero,North Hero town,34846768,Champlain Islands UUSD,444,140,U066
+5002350275,Northfield,Northfield town,115595913,Paine Mountain School District,441,139,U068
+5000952750,Norton,Norton town,99428306,Northeast Kingdom Choice School District,447,141,U065
+5002752900,Norwich,Norwich town,115239694,Dresden Interstate UHSD,450,142,U145
+5002752900,Norwich,Norwich town,115239694,Norwich,450,142,T145
+5001753425,Orange,Orange town,100199779,Echo Valley Community School District,453,143,U067
+5000153725,Orwell,Orwell town,122300017,Slate Valley UUSD,459,145,U062
+5000153950,Panton,Panton town,40092401,Addison Northwest USD,462,146,U054
+5002154250,Pawlet,Pawlet town,110964556,Metawee School District,465,147,U084
+5000554400,Peacham,Peacham town,120906410,Peacham,468,148,T151
+5000355000,Peru,Peru town,96791086,Taconic and Green Regional SD,474,149,U063
+5002155450,Pittsfield,Pittsfield town,53038633,Pittsfield,477,150,T153
+5002155600,Pittsford,Pittsford town,112113009,Otter Valley UUSD,480,151,U053
+5002355825,Plainfield,Plainfield town,54396776,Twinfield USD,483,152,U033
+5002756050,Plymouth,Plymouth town,124771309,Mountain Views School District,486,153,U076
+5002756350,Pomfret,Pomfret town,102240236,Mountain Views School District,489,154,U076
+5002156875,Poultney,Poultney town,110223965,Quarry Valley UUSD,492,155,U070
+5000357025,Pownal,Pownal town,121146174,Mt. Anthony UHSD,495,156,U014
+5000357025,Pownal,Pownal town,121146174,Southwest Vermont UESD,495,156,U087
+5002157250,Proctor,Proctor town,19203742,Quarry Valley UUSD,498,157,U070
+5002557700,Putney,Putney town,69044547,Windham Southeast SD,504,158,U096
+5001758075,Randolph,Randolph town,124240343,Orange Southwest USD,507,159,U059
+5002758375,Reading,Reading town,106434498,Mountain Views School District,510,160,U076
+5000358600,Readsboro,Readsboro town,93577441,Readsboro,513,161,T164
+5001159125,Richford,Richford town,111194664,Enosburgh-Richford UUSD,516,162,U088
+5000759275,Richmond,Richmond town,83853391,Mt. Mansfield UUSD,519,163,U401
+5000159650,Ripton,Ripton town,127650280,Addison Central USD,522,164,U055
+5002760100,Rochester,Rochester town,147227716,Rochester-Stockbridge USD,525,165,U081
+5002560250,Rockingham,Rockingham town,107252404,Bellows Falls UHSD,528,166,U027
+5002560250,Rockingham,Rockingham town,107252404,Rockingham,528,166,T169
+5002360625,Roxbury,Roxbury town,108000616,Montpelier Roxbury School District ,531,167,U071
+5002760850,Royalton,Royalton town,104569048,White River Unified District,534,168,U079
+5000361000,Rupert,Rupert town,115890477,Metawee School District,537,169,U084
+5002161225,Rutland City,Rutland city,19562140,Rutland City,540,170,T173
+5002161300,Rutland Town,Rutland town,49353210,Rutland Town,543,171,T174
+5000561525,Ryegate,Ryegate town,94703073,Blue Mountain USD,546,172,U021
+5000162575,Salisbury,Salisbury town,74956495,Addison Central USD,561,177,U055
+5000362875,Sandgate,Sandgate town,109417261,Sandgate,564,178,T181
+5000363175,Searsburg,Searsburg town,55124443,Searbsurg,570,179,#N/A
+5000363550,Shaftsbury,Shaftsbury town,111345105,Mt. Anthony UHSD,573,180,U014
+5000363550b,Shaftsbury Less NBID,Shaftsbury Less NBID,106018506,Southwest Vermont UESD,573b,180a,U087
+5000363550a,Shaftsbury NBID,Shaftsbury NBID,5326598,North Bennington ID,573a,180b,T141
+5002763775,Sharon,Sharon town,103103246,Sharon,576,181,T184
+5000564075,Sheffield,Sheffield town,84840734,Kingdom East USD,579,182,U064
+5000764300,Shelburne,Shelburne town,62874422,Champlain Valley USD,582,183,U056
+5001164600,Sheldon,Sheldon town,100080746,Northern Mountain Valley UUSD,585,184,U085
+5000165050,Shoreham,Shoreham town,111950012,Addison Central USD,591,186,U055
+5002165275,Shrewsbury,Shrewsbury town,129660709,Mill River UUSD,594,187,U052
+5002565762,Somerset,Somerset town,65607721,Somerset,597,260,T261
+5000766175,South Burlington,South Burlington city,42565245,South Burlington,600,188,T191
+5001367000,South Hero,South Hero town,38630491,South Hero,603,189,T192
+5002769550,Springfield,Springfield town,127458768,Springfield,606,190,T193
+5001161675,Saint Albans City,St. Albans city,5064444,Maple Run USD,549,173,U057
+5001161750,Saint Albans Town,St. Albans town,96174593,Maple Run USD,552,174,U057
+5000762050,Saint George,St. George town,9505929,Champlain Valley USD,555,175,U056
+5000562200,Saint Johnsbury,St. Johnsbury town,94405066,St. Johnsbury,558,176,T179
+5000369775,Stamford,Stamford town,102255394,Stamford,609,191,T194
+5000569925,Stannard,Stannard town,32742771,Mountain View UESD,612,192,U094
+5000569925,Stannard,Stannard town,32742771,Stannard,612,192,T195
+5000170075,Starksboro,Starksboro town,117485652,Mt. Abraham USD,615,193,U061
+5002770375,Stockbridge,Stockbridge town,118581821,Rochester-Stockbridge USD,618,194,U081
+5001570525,Stowe,Stowe town,187660671,Stowe,621,195,T198
+5001770675,Strafford,Strafford town,114179722,Strafford,624,196,T199
+5002570750,Stratton,Stratton town,119210165,Stratton,627,197,T200
+5002171050,Sudbury,Sudbury town,55409219,Otter Valley UUSD,630,198,U053
+5000371425,Sunderland,Sunderland town,117158658,Taconic and Green Regional SD,633,199,U063
+5000571575,Sutton,Sutton town,99192363,Kingdom East USD,636,200,U064
+5001171725,Swanton,Swanton town,124899615,Missisquoi Valley School Distrist,639,201,U089
+5001772400,Thetford,Thetford town,112800232,Thetford,642,202,T205
+5002172925,Tinmouth,Tinmouth town,74050391,Mill River UUSD,645,203,U052
+5001773075,Topsham,Topsham town,126706618,Waits River Valley School District,648,204,U036
+5002573300,Townshend,Townshend town,109511616,West River Modified Union Education District,651,205,U072A/B
+5001973525,Troy,Troy town,93570425,North Country Sr UHSD,654,206,U022B
+5001973525,Troy,Troy town,93570425,Troy,654,206,T209
+5001773675,Tunbridge,Tunbridge town,115609011,First Branch USD,657,207,U082
+5000773975,Underhill,Underhill town,132646841,Mt. Mansfield UUSD,660,209,U401
+5000174650,Vergennes,Vergennes city,6359939,Addison Northwest USD,663,210,U054
+5002574800,Vernon,Vernon town,50370905,Vernon,666,211,T214
+5002574800,Vernon,Vernon town,50370905,Windham Southeast SD,666,211,U096
+5001774950,Vershire,Vershire town,93500027,Rivendell Interstate School District,669,212,U146
+5000975175,Victory,Victory town,111250313,Northeast Kingdom Choice School District,672,213,U065
+5002375325,Waitsfield,Waitsfield town,66688119,Harwood UUSD,675,214,U060
+5000575700,Walden,Walden town,100028451,Caledonia Cooperative School District,678,215,U078
+5002175925,Wallingford,Wallingford town,110092950,Mill River UUSD,681,216,U052
+5000176075,Waltham,Waltham town,23610483,Addison Northwest USD,684,217,U054
+5002576225,Wardsboro,Wardsboro town,75685009,River Valleys USD,687,218,U073
+5000976337,Warner's Grant,Warner's grant,8286161,Warners Grant,689,261,T262
+5002376525,Warren,Warren town,103815929,Harwood UUSD,690,219,U060
+5000976562,Warren's Gore,Warren's gore,24532186,Warren Gore,692,262,T263
+5001776750,Washington,Washington town,100961054,Echo Valley Community School District,693,220,U067
+5002376975,Waterbury,Waterbury town,124716290,Harwood UUSD,696,221,U060
+5000577125,Waterford,Waterford town,99155685,Caledonia Cooperative School District,699,222,U078
+5001577425,Waterville,Waterville town,40622774,Lamoille North MUSD A,702,223,U058A
+5001577425,Waterville,Waterville town,40622774,Lamoille North MUSD B,702,223,U058B
+5002777500,Weathersfield,Weathersfield town,112687152,Weathersfield,705,224,T227
+5002177950,Wells,Wells town,57867586,Wells Spring Unified Union District,708,225,U069
+5001748175b,Wells River,Wells River,4895006,Blue Mountain USD,426b,133b,U021
+5001779975,West Fairlee,West Fairlee town,58588748,Rivendell Interstate School District,714,227,U146
+5002180875,West Haven,West Haven town,72838833,Slate Valley UUSD,723,230,U062
+5002182300,West Rutland,West Rutland town,46692437,Quarry Valley UUSD,735,234,U070
+5002783050,West Windsor,West Windsor town,64025412,Mt. Ascutney SD,738,235,U086
+5001980200,Westfield,Westfield town,103368989,North Country Sr UHSD,717,228,U022B
+5001980200,Westfield,Westfield town,103368989,Westfield,717,228,T231
+5000780350,Westford,Westford town,100806173,Essex-Westford ECUUSD,720,229,U051
+5002581400,Westminster,Westminster town,116613916,Bellows Falls UHSD,726,231,U027
+5002581400,Westminster,Westminster town,116613916,Westminster,726,231,T234
+5001981700,Westmore,Westmore town,89218126,Lake Region UHSD,729,232,U024
+5001981700,Westmore,Westmore town,89218126,Lake Region Union Elm-Middle SD,729,232,U093
+5002782000,Weston,Weston town,91611397,Taconic and Green Regional SD,732,233,U063
+5000183275,Weybridge,Weybridge town,44282021,Addison Central USD,741,236,U055
+5000583500,Wheelock,Wheelock town,102314218,Kingdom East USD,744,237,U064
+5000183800,Whiting,Whiting town,35227609,Otter Valley UUSD,750,238,U053
+5002583950,Whitingham,Whitingham town,95204651,Twin Valley USD,753,239,U075
+5001784175,Williamstown,Williamstown town,104014501,Paine Mountain School District,756,240,U068
+5000784475,Williston,Williston town,78942811,Champlain Valley USD,759,241,U056
+5002584700,Wilmington,Wilmington town,104766010,Twin Valley USD,762,242,U075
+5002584850,Windham,Windham town,67581474,West River Modified Union Education District,765,243,U072A/B
+5002584850,Windham,Windham town,67581474,Windham,765,243,T246
+5002784925,Windsor,Windsor town,50267370,Mt. Ascutney SD,768,244,U086
+5000385075,Winhall,Winhall town,114093319,Winhall,771,245,T248
+5000785150,Winooski,Winooski city,3576484,Winooski ID,774,246,T249
+5001585375,Wolcott,Wolcott town,100873611,Wolcott,777,247,T250
+5002385525,Woodbury,Woodbury town,97701026,Hazen UHSD,780,248,U026
+5002385525,Woodbury,Woodbury town,97701026,Mountain View UESD,780,248,U094
+5000385675,Woodford,Woodford town,122653078,Mt. Anthony UHSD,783,249,U014
+5000385675,Woodford,Woodford town,122653078,Southwest Vermont UESD,783,249,U087
+5002785975,Woodstock,Woodstock town,114095175,Mountain Views School District,786,250,U076
+5002386125,Worcester,Worcester town,99860093,Washington Central UUSD,788,251,U092
