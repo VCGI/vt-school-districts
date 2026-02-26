@@ -137,7 +137,7 @@ GEOID,NAME,NAMELSAD,ALAND,DISTRICT,TCODE,SD_CODE,SD_ID,AOE_CODE
 5000339025,Landgrove,Landgrove town,22934584,Taconic and Green Regional SD,342,106,U063,T109
 5000139325,Leicester,Leicester town,53966710,Otter Valley UUSD,345,107,U053,T110
 5000939700,Lemington,Lemington town,91762257,Northeast Kingdom Choice School District,348,108,U065,T111
-5000939775,Lewis,Lewis town,100713120,Lewis,351,259,T260,
+5000939775,Lewis,Lewis town,100713120,Lewis,351,259,T260,T260
 5000140075,Lincoln,Lincoln town,118130903,Lincoln,354,109,T112,T112
 5002540225,Londonderry,Londonderry town,91862173,Taconic and Green Regional SD,357,110,U063,T113
 5001940525,Lowell,Lowell town,146401788,Lowell,360,111,T114,T114
@@ -301,3 +301,4 @@ GEOID,NAME,NAMELSAD,ALAND,DISTRICT,TCODE,SD_CODE,SD_ID,AOE_CODE
 5000385675,Woodford,Woodford town,122653078,Southwest Vermont UESD,783,249,U087,T252
 5002785975,Woodstock,Woodstock town,114095175,Mountain Views School District,786,250,U076,T253
 5002386125,Worcester,Worcester town,99860093,Washington Central UUSD,788,251,U092,T254
+
