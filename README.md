@@ -71,6 +71,7 @@ For reference: [This file](https://vermontgov-my.sharepoint.com/:x:/g/personal/j
 
 * **School district** updates:
    * No changes or updates
+   * INTERIM EDIT March 4, 2026: Following confirmation from AOE (Glenn Bouchard), the single district U072A/B West River Modified Union Education District was split into two distinct districts. U072A West River Modified Union Education District is comprised of Jamaica, Townshend, Brookline, and Newfane. U072B West River Union Education District is comprised of Jamaica, Townshend, Brookline, Newfane, and Windham. The districts had merged in FY2020 but Windham only agreed to join the HS portion of the district. U072A is the elementary school portion. Windham closed their elementary school in FY2024 and began sending students to Townshend elementary, but never officially joined U072A and the districts remain separate. The population density was recalculated for U072A (now excluding Windham). 
 
 * **Supervisory union** updates:
     * Per correspondence with Kristi Tate (Vermont Superintendents Association), and confirmed by AOE, entries for the following SUs were updated from "SU" to "SD" in the 'SUSD' field:
