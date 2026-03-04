@@ -1,6 +1,6 @@
 # School Districts and Supervisory Unions Annual Update
 
-Updated June 20, 2025
+Updated March 4, 2026
 
 - [Contact](#contact)
 - [Timing](#timing)
