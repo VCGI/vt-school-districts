@@ -38,7 +38,8 @@ GEOID,NAME,NAMELSAD,ALAND,DISTRICT,TCODE,SD_CODE,SD_ID,AOE_CODE
 5000908725,Brighton,Brighton town,136927046,North Country Sr UHSD,090,028,U022B,T030
 5000109025,Bristol,Bristol town,105018080,Mt. Abraham USD,093,029,U061,T031
 5001709325,Brookfield,Brookfield town,105876670,Orange Southwest USD,096,030,U059,T032
-5002509475,Brookline,Brookline town,33290178,West River Modified Union Education District,099,031,U072A/B,T033
+5002509475,Brookline,Brookline town,33290178,West River Modified Union Education District,099,031,U072A,T033
+5002509475,Brookline,Brookline town,33290178,West River Union Education District,099,031,U072B,T033
 5001909850,Brownington,Brownington town,72730870,Lake Region UHSD,102,032,U024,T034
 5001909850,Brownington,Brownington town,72730870,Lake Region Union Elm-Middle SD,102,032,U093,T034
 5000910075,Brunswick,Brunswick town,64204673,Northeast Kingdom Choice School District,105,033,U065,T035
@@ -125,7 +126,8 @@ GEOID,NAME,NAMELSAD,ALAND,DISTRICT,TCODE,SD_CODE,SD_ID,AOE_CODE
 5001935575,Irasburg,Irasburg town,104302251,Lake Region UHSD,312,099,U024,T102
 5001935575,Irasburg,Irasburg town,104302251,Lake Region Union Elm-Middle SD,312,099,U093,T102
 5001335875,Isle La Motte,Isle La Motte town,20421053,Champlain Islands UUSD,318,100,U066,T103
-5002536175,Jamaica,Jamaica town,126769896,West River Modified Union Education District,324,101,U072A/B,T104
+5002536175,Jamaica,Jamaica town,126769896,West River Modified Union Education District,324,101,U072A,T104
+5002536175,Jamaica,Jamaica town,126769896,West River Union Education District,324,101,U072B,T104
 5001936325,Jay,Jay town,87840666,Jay,327,102,T105,T105
 5001936325,Jay,Jay town,87840666,North Country Jr UHSD,327,102,U022A,T105
 5001936325,Jay,Jay town,87840666,North Country Sr UHSD,327,102,U022B,T105
@@ -167,7 +169,8 @@ GEOID,NAME,NAMELSAD,ALAND,DISTRICT,TCODE,SD_CODE,SD_ID,AOE_CODE
 5000148700,New Haven,New Haven town,106590692,Mt. Abraham USD,432,135,U061,T138
 5000547725,Newark,Newark town,95243417,Kingdom East USD,423,132,U064,T135
 5001748175a,Newbury Less Wells River,Newbury Less Wells River,160989236,Oxbow UUSD,426a,133a,U091,T136a
-5002548400,Newfane,Newfane town,102981054,West River Modified Union Education District,429,134,U072A/B,T137
+5002548400,Newfane,Newfane town,102981054,West River Modified Union Education District,429,134,U072A,T137
+5002548400,Newfane,Newfane town,102981054,West River Union Education District,429,134,U072B,T137
 5001948850,Newport City,Newport city,15171890,Newport City,435,136,T139,T139
 5001948925,Newport Town,Newport town,107555208,Newport Town,438,137,T140,T140
 5001948850,Newport City,Newport city,15171890,North Country Jr UHSD,435,136,U022A,T139
@@ -244,7 +247,8 @@ GEOID,NAME,NAMELSAD,ALAND,DISTRICT,TCODE,SD_CODE,SD_ID,AOE_CODE
 5001772400,Thetford,Thetford town,112800232,Thetford,642,202,T205,T205
 5002172925,Tinmouth,Tinmouth town,74050391,Mill River UUSD,645,203,U052,T206
 5001773075,Topsham,Topsham town,126706618,Waits River Valley School District,648,204,U036,T207
-5002573300,Townshend,Townshend town,109511616,West River Modified Union Education District,651,205,U072A/B,T208
+5002573300,Townshend,Townshend town,109511616,West River Modified Union Education District,651,205,U072A,T208
+5002573300,Townshend,Townshend town,109511616,West River Union Education District,651,205,U072B,T208
 5001973525,Troy,Troy town,93570425,North Country Sr UHSD,654,206,U022B,T209
 5001973525,Troy,Troy town,93570425,Troy,654,206,T209,T209
 5001773675,Tunbridge,Tunbridge town,115609011,First Branch USD,657,207,U082,T210
@@ -289,7 +293,7 @@ GEOID,NAME,NAMELSAD,ALAND,DISTRICT,TCODE,SD_CODE,SD_ID,AOE_CODE
 5001784175,Williamstown,Williamstown town,104014501,Paine Mountain School District,756,240,U068,T243
 5000784475,Williston,Williston town,78942811,Champlain Valley USD,759,241,U056,T244
 5002584700,Wilmington,Wilmington town,104766010,Twin Valley USD,762,242,U075,T245
-5002584850,Windham,Windham town,67581474,West River Modified Union Education District,765,243,U072A/B,T246
+5002584850,Windham,Windham town,67581474,West River Union Education District,765,243,U072B,T246
 5002584850,Windham,Windham town,67581474,Windham,765,243,T246,T246
 5002784925,Windsor,Windsor town,50267370,Mt. Ascutney SD,768,244,U086,T247
 5000385075,Winhall,Winhall town,114093319,Winhall,771,245,T248,T248
@@ -301,6 +305,7 @@ GEOID,NAME,NAMELSAD,ALAND,DISTRICT,TCODE,SD_CODE,SD_ID,AOE_CODE
 5000385675,Woodford,Woodford town,122653078,Southwest Vermont UESD,783,249,U087,T252
 5002785975,Woodstock,Woodstock town,114095175,Mountain Views School District,786,250,U076,T253
 5002386125,Worcester,Worcester town,99860093,Washington Central UUSD,788,251,U092,T254
+
 
 
 
