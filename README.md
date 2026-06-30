@@ -13,7 +13,7 @@ Updated June 30, 2026
 
 
 ## Contact
-Current contact at AOE is Toren Ballard (Toren.Ballard@vermont.gov) and/or Jill Briggs Campbell (Jill.BriggsCampbell@vermont.gov).
+Current contact at AOE is [Toren Ballard](Toren.Ballard@vermont.gov), [Glenn Bouchard](Glenn.Bouchard@vermont.gov), and/or [Jill Briggs Campbell](Jill.BriggsCampbell@vermont.gov).
 
 ## Timing
 [School district](https://geodata.vermont.gov/datasets/03147644b3db427e8117d9f7bf895a0b_56/explore) and [supervisory union](https://geodata.vermont.gov/datasets/08c21e8c8c094771b8308ddd7bb1db1e_55/explore) layers are updated annually for the FY starting on July 1 (e.g., FY2027 begins July 1, 2026).
@@ -60,7 +60,7 @@ For reference: [This file](https://vermontgov-my.sharepoint.com/:x:/g/personal/j
     * No changes or updates along town boundaries that are also SD/SU boundaries.
 
 * **Density calculations** (in school district layer):
-    * Using 2025 population estimates by town, update population density following procedure above.
+    * Using 2025 population estimates by town, update population density in SD layer following procedure above.
 
 ## FY2026 Update
 
@@ -93,7 +93,7 @@ For reference: [This file](https://vermontgov-my.sharepoint.com/:x:/g/personal/j
     * No changes or updates along town boundaries that are also SD/SU boundaries.
 
 * **Density calculations** (in school district layer):
-    * Using 2024 population estimates by town, update population density following procedure above.
+    * Using 2024 population estimates by town, update population density in SD layer following procedure above.
 
 ## FY2025 Update
 
@@ -110,7 +110,7 @@ For reference: [This file](https://vermontgov-my.sharepoint.com/:x:/g/personal/j
     * No changes or updates along town boundaries that are also SD/SU boundaries.
 
 * **Density calculations** (in school district layer):
-    * Using 2023 population estimates by town, update population density following procedure above.
+    * Using 2023 population estimates by town, update population density in SD layer following procedure above.
     
 
 
