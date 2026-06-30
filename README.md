@@ -1,24 +1,24 @@
 # School Districts and Supervisory Unions Annual Update
 
-Updated March 4, 2026
+Updated June 30, 2026
 
 - [Contact](#contact)
 - [Timing](#timing)
 - [Town Boundary Updates](#town-boundaries-updates)
 - [Population Density Calculation](#population-density-calculation)
-- [FY2025 Update](#fy2025-update)
-- [FY2026 Update](#fy2026-update)
 - [FY2027 Update](#fy2027-update)
-- [FY2028 Update](#fy2028-update)
+- [FY2026 Update](#fy2026-update)
+- [FY2025 Update](#fy2025-update)
+
 
 
 ## Contact
-Current contact at AOE is Julie Robinson (julie.robinson@vermont.gov). Sean Cousino (sean.cousino@vermont.gov) is another potential contact.
+Current contact at AOE is Toren Ballard (Toren.Ballard@vermont.gov) and/or Jill Briggs Campbell (Jill.BriggsCampbell@vermont.gov).
 
 ## Timing
-[School district](https://geodata.vermont.gov/datasets/03147644b3db427e8117d9f7bf895a0b_56/explore) and [supervisory union](https://geodata.vermont.gov/datasets/08c21e8c8c094771b8308ddd7bb1db1e_55/explore) layers are updated annually for the FY starting on July 1 (e.g., FY2025 begins July 1, 2024).
+[School district](https://geodata.vermont.gov/datasets/03147644b3db427e8117d9f7bf895a0b_56/explore) and [supervisory union](https://geodata.vermont.gov/datasets/08c21e8c8c094771b8308ddd7bb1db1e_55/explore) layers are updated annually for the FY starting on July 1 (e.g., FY2027 begins July 1, 2026).
 
-Contact Julie in late May/early June to inquire about any changes to SD or SU boundaries or names. Make edits in time to be published to portal by end of June/July 1 (Ivan will do this part).
+Contact AOE in late May/early June to inquire about any changes to SD or SU boundaries or names. Make edits in time to be published to portal by end of June/July 1 (Ivan will do this part).
 
 ## Town Boundaries Updates
 Many SD and SU boundaries follow town boundaries. Verify that any changes to boundaries in BNDHASH are also reflected in the annual SD / SU updates (in addition to merges, dissolutions, new districts, etc. as communicated by AOE). The [BNDHASH All Lines metadata](https://www.arcgis.com/sharing/rest/content/items/ef665468eb254244b761f2f0cd13657f/info/metadata/metadata.xml?format=default&output=html) includes a changelog of any updates to town boundaries. These updates are only relevant if/when the town boundary is also an SD/SU boundary.
@@ -48,24 +48,19 @@ Population density is calculated by:
 For reference: [This file](https://vermontgov-my.sharepoint.com/:x:/g/personal/john_e_adams_vermont_gov/EbmeHZ1AxO1GmLAkWxtGUb8BlGN7iGxSxSWAL2TspYjo4Q?e=rPGzGQ) queries the 2023 population, area, and subtown geography files in github to calculate the densities. 
 
 
-
-## FY2025 Update
+## FY2027 Update
 
 * **School district** updates:
-    * Name change for Orleans Southwest UESD to *Mountain View UESD*
-    * Change Ferdinand's SU to *Essex North* (SU019)
-    * Change Fletcher's SU to *Franklin West* (SU022)
-    * Populate SUNAME field for Winhall (T248) with *Bennington Rutland SU* (formerly was blank)
+   * No changes or updates. 
 
 * **Supervisory union** updates:
-    * No changes or updates
+    * No changes or updates.
 
 * **Town Boundary** updates:
-    * No changes or updates along town boundaries that are also SD/SU boundaries
+    * No changes or updates along town boundaries that are also SD/SU boundaries.
 
 * **Density calculations** (in school district layer):
-    * Using 2023 population estimates by town, update population density following procedure above.
-    
+    * Using 2025 population estimates by town, update population density following procedure above.
 
 ## FY2026 Update
 
@@ -95,12 +90,30 @@ For reference: [This file](https://vermontgov-my.sharepoint.com/:x:/g/personal/j
         * Washington Central (SD32)
 
 * **Town Boundary** updates:
-    * No changes or updates along town boundaries that are also SD/SU boundaries
+    * No changes or updates along town boundaries that are also SD/SU boundaries.
 
 * **Density calculations** (in school district layer):
     * Using 2024 population estimates by town, update population density following procedure above.
 
+## FY2025 Update
 
-## FY2027 Update
+* **School district** updates:
+    * Name change for Orleans Southwest UESD to *Mountain View UESD*
+    * Change Ferdinand's SU to *Essex North* (SU019)
+    * Change Fletcher's SU to *Franklin West* (SU022)
+    * Populate SUNAME field for Winhall (T248) with *Bennington Rutland SU* (formerly was blank)
 
-## FY2028 Update
+* **Supervisory union** updates:
+    * No changes or updates.
+
+* **Town Boundary** updates:
+    * No changes or updates along town boundaries that are also SD/SU boundaries.
+
+* **Density calculations** (in school district layer):
+    * Using 2023 population estimates by town, update population density following procedure above.
+    
+
+
+
+
+
